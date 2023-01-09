@@ -36,6 +36,3 @@ http://www.domain.com/folder/hello-world.html
 
 * [Visual Studio Code](https://code.visualstudio.com/) or [Brackets](http://brackets.io/) (or any code editor)
 * [Filezilla](https://filezilla-project.org/) (or any FTP program)
-
-
-# Hello_World_html
